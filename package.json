@@ -1,0 +1,14 @@
+{
+  "name": "website-monitor",
+  "version": "1.0.0",
+  "description": "Website change monitor",
+  "main": "website-monitor.js",
+  "scripts": {
+    "start": "node website-monitor.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "diff": "^5.1.0"
+  }
+}
